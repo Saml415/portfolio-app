@@ -2,7 +2,7 @@ import React from "react";
 import "./Portfolio.css";
 import Projects from "../components/Project";
 
-export default function Portfolio({}) {
+export default function Portfolio() {
   const projects = [
     {
       name: "Kode Keeper",
