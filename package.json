@@ -2,7 +2,7 @@
   "name": "reactApp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Saml415.github.io/reactApp",
+  "homepage": "https://saml415.github.io/reactApp/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
