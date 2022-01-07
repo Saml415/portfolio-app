@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Form, Button, Row, Col, Image } from "react-bootstrap";
+import { Form, Button } from "react-bootstrap";
 import Footer from "../components/Footer";
 import "./Contact.css";
 import { validateEmail } from "../utils/helper";
