@@ -4,11 +4,7 @@ import "./NavTabs.css";
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     <>
-      <Navbar
-        expand="lg"
-        className="inline-block block-example border-bottom border-light"
-      >
-        <h1>Sam Lloyd</h1>
+      <Navbar className="justify-content-center border-bottom border-light">
         <ul className="nav">
           <li className="nav-item">
             <a
