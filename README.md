@@ -25,7 +25,7 @@ The top layer of the repo consists of a build, public, and src folder which cont
 ## Contributing
 
 Created by Saml415
-https://saml415.github.io/react-portfolio2/
+https://saml415.github.io/portfolio-app/
 
 ## Tests
 
